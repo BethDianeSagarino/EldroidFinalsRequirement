@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047357755135",
+    "firebase_url": "https://dianeeldroid-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dianeeldroid",
+    "storage_bucket": "dianeeldroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047357755135:android:2ff976b61c7b40f08246ca",
+        "android_client_info": {
+          "package_name": "com.example.diane_eldroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047357755135-d6s59766d8st7chbasrf4rhth878s0bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByYHN5xro-Y6rrSTxxQoo4ebjsO6WFHkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047357755135-d6s59766d8st7chbasrf4rhth878s0bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
